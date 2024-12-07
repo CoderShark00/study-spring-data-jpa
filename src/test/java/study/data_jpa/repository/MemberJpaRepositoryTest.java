@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.transaction.annotation.Transactional;
 import study.data_jpa.entity.Member;
 
-import static org.junit.jupiter.api.Assertions.*;
+
 
 @SpringBootTest
 @Transactional
